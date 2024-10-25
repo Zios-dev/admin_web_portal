@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685221723431",
+    "project_id": "afedrop-5fed0",
+    "storage_bucket": "afedrop-5fed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685221723431:android:ab3ff564f1b8b3f9c6bd02",
+        "android_client_info": {
+          "package_name": "com.example.admin_web_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBBafx2Ywx-pIts5caMQ_RdvMxBtBxqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
